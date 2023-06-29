@@ -1,1 +1,1 @@
-# Major__Automatic-Control-Systems
+# [전공] 자동제어
